@@ -1,2 +1,2 @@
-# PRO-C24-Reference_code
+# Class 24 Output
 reference code
